@@ -1,0 +1,9 @@
+package br.com.db1.start.aula10;
+
+public class minhaprimeiraclasse {
+	
+	public static void main(String[] args) {
+		System.out.println("Olá Mundo!");
+	}
+
+}

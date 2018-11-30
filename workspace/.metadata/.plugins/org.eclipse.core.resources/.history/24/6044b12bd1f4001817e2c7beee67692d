@@ -1,0 +1,32 @@
+package br.com.db1.start.aula10;
+
+public class minhaprimeiraclasse {
+	
+	public static void main(String[] args) {
+		System.out.println("Olá Mundo!");
+		
+		
+		Integer numeroASerVerificado = 3;
+		Integer numeroASerVerificadoPrimeiro = 10;
+		Integer numeroASerVerificadoSegundo = 2;
+		Integer resultadoOperacao;
+		
+		
+		boolean eVerdade = numeroASerVerificado == 3;
+		boolean eVerdadeNumeroImpar = numeroASerVerificado % 2 >0;
+		System.out.println(eVerdade);
+		System.out.println(eVerdadeNumeroImpar);
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+	}
+
+}
